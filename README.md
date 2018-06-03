@@ -10,4 +10,5 @@ To Run This App in your environment create account on,
 
 [**console.dialogflow.com**](console.dialogflow.com) and import this project.
 
-![Sample Image](https://raw.githubusercontent.com/meet7202/Mess-Menu-Bot/master/sample.png)
+<img src="https://raw.githubusercontent.com/meet7202/Mess-Menu-Bot/master/sample.png" height="480" width="240">
+
