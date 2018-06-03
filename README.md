@@ -8,7 +8,7 @@ This Bot can be integrated to Slack, Facebook Messanger and many more.
 
 To Run This App in your environment create account on,
 
-[**console.dialogflow.com**](console.dialogflow.com) and import this project.
+<a href="http://console.dialogflow.com">console.dialogflow.com</a> and import this project.
 
 <img src="https://raw.githubusercontent.com/meet7202/Mess-Menu-Bot/master/sample.png" height="480" width="240">
 
