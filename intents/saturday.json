@@ -1,0 +1,37 @@
+{
+  "id": "8592e0a1-6a69-42f1-b439-4ca3ebd212e4",
+  "name": "saturday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "647a9125-744c-4022-bea0-977e33c0a3be",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "saturday menu is chhole, bhature and lassi"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528023389,
+  "fallbackIntent": false,
+  "events": []
+}

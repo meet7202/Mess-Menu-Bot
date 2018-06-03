@@ -1,0 +1,37 @@
+{
+  "id": "f73593bc-1b35-4d05-8746-de4cee31c09e",
+  "name": "wednesday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a40628f7-9ba9-427b-a547-7826b30ef5a4",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "wednesday menu is roti, sabji"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528023519,
+  "fallbackIntent": false,
+  "events": []
+}

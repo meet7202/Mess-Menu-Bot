@@ -1,0 +1,34 @@
+[
+  {
+    "id": "4777770e-b311-4de5-abe8-c97ac4981fc7",
+    "data": [
+      {
+        "text": "monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528023334
+  },
+  {
+    "id": "d3eee0c2-d98a-454a-a598-c1d1a93ab42e",
+    "data": [
+      {
+        "text": "monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528022186
+  }
+]

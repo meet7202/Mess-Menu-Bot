@@ -1,0 +1,30 @@
+[
+  {
+    "id": "71ee695f-d6d1-4f8e-b502-0c155ddd0dc4",
+    "data": [
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528023770
+  },
+  {
+    "id": "83eb0bf8-2bcd-4f5f-8f3c-b85fc005ae0f",
+    "data": [
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528023770
+  }
+]

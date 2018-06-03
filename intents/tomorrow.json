@@ -1,0 +1,38 @@
+{
+  "id": "98a509a2-f62b-4e72-9986-219853d0f80b",
+  "name": "tomorrow",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d22b689-dc8e-4728-badd-476c4b51d10e",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [],
+          "defaultValue": "please mention day like monday, tuesday...",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "please enter day like monday, tuesday...!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528023770,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "0ab8ed0b-419e-433f-af0c-40b8c113fc3c",
+  "name": "monday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "525460a3-e9a1-4095-b586-65cc12722a0f",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Monday Menu is Roti, Sabji"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528023422,
+  "fallbackIntent": false,
+  "events": []
+}

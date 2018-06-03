@@ -1,0 +1,37 @@
+{
+  "id": "6b88c6b9-32f6-447e-a03b-67651a50da7d",
+  "name": "friday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1fa5d9ba-453f-4c64-8a7f-c2bcb2450d55",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mess menu friday is roti, sabji and Biriyani"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528023400,
+  "fallbackIntent": false,
+  "events": []
+}

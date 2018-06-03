@@ -1,0 +1,29 @@
+{
+  "id": "8f20dec5-92ac-4f5c-8b25-f79968ab06e6",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m not sure about that.\nI\u0027ll be happy to tell you the Mess Menu of any day.\nWhich day\u0027s menu do would you like to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528021676,
+  "fallbackIntent": true,
+  "events": []
+}
